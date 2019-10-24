@@ -5,39 +5,59 @@
   "lazyLoadTabs": true,
   "websites": [
     {
-      "url": "https://nxglabspvtltd-2af981.pipedrive.com/pipeline/1/filter/189",
-      "duration": 30,
-      "tabReloadIntervalSeconds": 300
+      "url": "https://mail.google.com/mail/u/0/#inbox",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 600
     },
     {
-      "url": "https://nxglabspvtltd-2af981.pipedrive.com/pipeline/3/filter/189",
-      "duration": 30,
-      "tabReloadIntervalSeconds": 300
+      "url": "https://nxglabspvtltd-2af981.pipedrive.com/pipeline/1/filter/189",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 600
     },
     {
       "url": "https://nxglabspvtltd-2af981.pipedrive.com/pipeline/4/filter/189",
-      "duration": 30,
-      "tabReloadIntervalSeconds": 300
+      "duration": 60,
+      "tabReloadIntervalSeconds": 600
+    },
+    {
+      "url": "https://nxglabspvtltd-2af981.pipedrive.com/pipeline/3/filter/189",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 600
     },
     {
       "url": "https://nxglabspvtltd-2af981.pipedrive.com/progress/reports/activity/done/users/1/today/all",
-      "duration": 30,
-      "tabReloadIntervalSeconds": 300
+      "duration": 60,
+      "tabReloadIntervalSeconds": 600
     },
     {
       "url": "https://nxglabspvtltd-2af981.pipedrive.com/progress/reports/deal/started/users/1/today/all/count/creator",
-      "duration": 30,
-      "tabReloadIntervalSeconds": 300
+      "duration": 60,
+      "tabReloadIntervalSeconds": 600
     },
     {
       "url": "https://nxglabspvtltd-2af981.pipedrive.com/progress/reports/deal/won/users/1/month/all/value",
-      "duration": 30,
-      "tabReloadIntervalSeconds": 300
+      "duration": 60,
+      "tabReloadIntervalSeconds": 600
     },
     {
       "url": "https://nxglabspvtltd-2af981.pipedrive.com/mail/inbox",
-      "duration": 30,
-      "tabReloadIntervalSeconds": 300
+      "duration": 60,
+      "tabReloadIntervalSeconds": 600
+    },
+    {
+      "url": "https://nxglabspvtltd-2af981.pipedrive.com/pipeline/1/user/8090832",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 600
+    },
+    {
+      "url": "https://nxglabspvtltd-2af981.pipedrive.com/pipeline/3/",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 600
+    },
+    {
+      "url": "https://nxglabspvtltd-2af981.pipedrive.com/progress/dashboard/656aa9b5cbf4c183f7f8eeab463a46d7/3/month/user_8090832",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 600
     }
   ]
 }
