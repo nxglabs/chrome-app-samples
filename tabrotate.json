@@ -6,6 +6,11 @@
   "websites": [
     {
       "url": "https://mail.google.com/mail/u/0/#inbox",
+      "duration": 120,
+      "tabReloadIntervalSeconds": 600
+    },
+    {
+      "url": "https://nxglabspvtltd-2af981.pipedrive.com/mail/inbox",
       "duration": 60,
       "tabReloadIntervalSeconds": 600
     },
@@ -40,11 +45,6 @@
       "tabReloadIntervalSeconds": 600
     },
     {
-      "url": "https://nxglabspvtltd-2af981.pipedrive.com/mail/inbox",
-      "duration": 60,
-      "tabReloadIntervalSeconds": 600
-    },
-    {
       "url": "https://nxglabspvtltd-2af981.pipedrive.com/pipeline/1/user/8090832",
       "duration": 60,
       "tabReloadIntervalSeconds": 600
@@ -56,6 +56,11 @@
     },
     {
       "url": "https://nxglabspvtltd-2af981.pipedrive.com/progress/dashboard/656aa9b5cbf4c183f7f8eeab463a46d7/3/month/user_8090832",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 600
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/13taN1T_AyHO5FRni_LvN5kLmsv3R-fl8AIeBXyQbCJQ/edit#gid=0",
       "duration": 60,
       "tabReloadIntervalSeconds": 600
     }
