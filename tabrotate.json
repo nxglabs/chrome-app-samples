@@ -63,6 +63,11 @@
       "url": "https://docs.google.com/spreadsheets/d/13taN1T_AyHO5FRni_LvN5kLmsv3R-fl8AIeBXyQbCJQ/edit#gid=0",
       "duration": 60,
       "tabReloadIntervalSeconds": 600
+    },
+    {
+      "url": "http://admin.nxglabs.in/emp/ProjectStatusesCat.aspx?para=lastmonth",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 600
     }
   ]
 }
