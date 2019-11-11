@@ -65,7 +65,7 @@
       "tabReloadIntervalSeconds": 600
     },
     {
-      "url": "http://admin.nxglabs.in/emp/ProjectStatusesCat.aspx?para=lastmonth",
+      "url": "http://admin.nxglabs.in/emp/ProjectStatusesCatSearch.aspx?duration=thismonth",
       "duration": 60,
       "tabReloadIntervalSeconds": 6000
     }
