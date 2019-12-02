@@ -65,12 +65,12 @@
       "tabReloadIntervalSeconds": 600
     },
     {
-      "url": "http://admin.nxglabs.in/emp/ProjectStatuseCatSearch.aspx?duration=thismonth",
+      "url": "http://admin.nxglabs.in/emp/ProjectStatuseCatSearch.aspx?duration=last",
       "duration": 60,
       "tabReloadIntervalSeconds": 6000
     },
     {
-      "url": "https://trello.com/b/KdEdMdA9/drona-academy-sprint-2512nov-18nov-approved-by",
+      "url": "http://admin.nxglabs.in/emp/projectwiseGenerateInvoiceSearch.aspx?duration=lastmonth",
       "duration": 60,
       "tabReloadIntervalSeconds": 6000
     }
