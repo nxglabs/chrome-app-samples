@@ -65,12 +65,12 @@
       "tabReloadIntervalSeconds": 600
     },
     {
-      "url": "http://admin.nxglabs.in/emp/ProjectStatuseCatSearch.aspx?duration=lastmonth",
+      "url": "http://admin.nxglabs.in/emp/ProjectStatuseCatSearch.aspx?duration=thismonth",
       "duration": 60,
       "tabReloadIntervalSeconds": 6000
     },
     {
-      "http://admin.nxglabs.in/emp/projectwiseGenerateInvoiceSearch.aspx?duration=lastmonth&proj_type=fixcost",
+      "url": "http://admin.nxglabs.in/emp/projectwiseGenerateInvoiceSearch.aspx?duration=thismonth&proj_type=fixcost",
       "duration": 60,
       "tabReloadIntervalSeconds": 6000
     }
