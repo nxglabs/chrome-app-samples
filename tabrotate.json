@@ -33,16 +33,6 @@
       "url": "https://docs.google.com/spreadsheets/d/1fPK7X0Nz7YhOaphppnb2H1pSmDf8yoHw-RH4dr4rcRo/edit#gid=1004219339",
       "duration": 60,
       "tabReloadIntervalSeconds": 600
-    },
-    {
-      "url": "http://admin.nxglabs.in/emp/ProjectStatuseCatSearch.aspx?duration=thismonth",
-      "duration": 60,
-      "tabReloadIntervalSeconds": 6000
-    },
-    {
-      "url": "http://admin.nxglabs.in/emp/projectwiseGenerateInvoiceSearch.aspx?duration=thismonth&proj_type=fixcost",
-      "duration": 60,
-      "tabReloadIntervalSeconds": 6000
     }
   ]
 }
