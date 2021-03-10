@@ -5,11 +5,6 @@
   "lazyLoadTabs": true,
   "websites": [
     {
-      "url": "https://mail.google.com/mail/u/0/#inbox",
-      "duration": 120,
-      "tabReloadIntervalSeconds": 600
-    },
-    {
       "url": "https://nxglabspvtltd-2af981.pipedrive.com/mail/inbox",
       "duration": 60,
       "tabReloadIntervalSeconds": 600
